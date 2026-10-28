@@ -1,0 +1,6 @@
+{
+  "name": "Ejen Detektif Rimba: Misteri Bilik Terkurung",
+  "description": "Permainan interaktif detektif bilik tertutup berasaskan fabel Sang Kancil, Buaya dan Kerbau menggunakan kawalan pergerakan jari melalui kamera, soalan pelbagai aras kesukaran, dan sijil pengiktirafan ejen dengan kod unik.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
